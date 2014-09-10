@@ -79,7 +79,7 @@ def save_on_exit(score,round_count):
         print("Slot 1: {}\nSlot 2: {}".format(row_list[0],row_list[3]))
         slot = int(input("Which slot would you like to save to, 1 or 2?"))
         
-        same_name = input("Would you like to rename the slot?")
+        same_name = input("Would you like to rename the slot?").lower()
         if same_name == 'y' or same_name == 'yes':
             player_name = input("Please input your name\n> ")
         elif slot == 1:

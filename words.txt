@@ -10,7 +10,6 @@ breeze
 brick
 calm
 canal
-Casey
 cast
 chose
 claws
@@ -20,7 +19,6 @@ contrast
 cookies
 customs
 damage
-Danny
 deeply
 depth
 discussion
@@ -61,7 +59,7 @@ mission
 monkey
 mount
 mysterious
-neighborhood
+neighbourhood
 Norway
 nuts
 occasionally
